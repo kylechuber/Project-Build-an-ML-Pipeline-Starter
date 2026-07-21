@@ -6,6 +6,17 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Links
+
+- **GitHub repository:** https://github.com/kylechuber/Project-Build-an-ML-Pipeline-Starter
+- **Weights & Biases project:** https://wandb.ai/kylechuber-western-governors-university/nyc_airbnb
+- **Public Report Link (since can't make project public)** https://wandb.ai/kylechuber-western-governors-university/nyc_airbnb/reports/NYC-Airbnb-ML-Pipeline--VmlldzoxNzU0OTA4MQ?accessToken=gd1l0mke43uynfp8flmvmv4dt5cbhz9hr9dwkofjt4gccvlqd3mjzpq25ta9zs8u
+
+## Releases
+
+- **1.0.0** — Initial end-to-end pipeline
+- **1.0.1** — Added a geolocation boundary filter in basic_cleaning to drop listings outside the NYC area, allowing the pipeline to run successfully on new data samples
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
